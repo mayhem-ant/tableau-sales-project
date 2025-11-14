@@ -53,3 +53,48 @@ This project demonstrates advanced Tableau skills through two comprehensive dash
 - Product filters (Category & Sub-Category)
 - Location filters (Region, State, City)
 - Dynamic filtering across all visualizations
+
+## 🛠️ Technical Skills Demonstrated
+
+- Data Visualization: Line charts, bar charts, comparative analysis
+- Calculated Fields: YoY growth calculations, KPI formulas
+- Parameters & Filters: Interactive year selection, dynamic filtering
+- Dashboard Design: Clean, professional layout with consistent styling
+- Interactive Elements: Custom filter pane with hierarchical filtering (Product → Location)
+- User Experience: Intuitive navigation with clear filter organization
+- Data Analysis: Trend identification, performance metrics, segmentation
+
+## 📁 Repository Structure
+```
+tableau-sales-analytics/
+│
+├── dashboards/
+│   ├── sales_dashboard.twbx
+│   └── customer_dashboard.twbx
+│
+├── data/
+│   ├── sample_data.csv
+│   └── data_dictionary.md
+│
+├── screenshots/
+│   ├── sales_dashboard.png
+│   └── customer_dashboard.png
+│
+├── docs/
+│   ├── dashboard_guide.md
+│   └── insights_summary.md
+│
+└── README.md
+```
+
+
+## 📊 Data Source
+This project uses synthetic/dummy data created specifically for demonstration purposes. The dataset includes:
+
+- Customer information
+- Customer location
+- Product categories and subcategories
+- Order details
+
+
+
