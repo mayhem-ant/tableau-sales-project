@@ -13,7 +13,7 @@ This project demonstrates advanced Tableau skills through two comprehensive dash
 
 **1. Sales Dashboard**
 
- ***Key Metrics:***
+***Key Metrics:***
 - Total Sales
 - Total Profit
 - Total Quantity
@@ -24,6 +24,28 @@ This project demonstrates advanced Tableau skills through two comprehensive dash
 - Subcategory performance comparison
 - Monthly high/low indicators
 - YoY comparison analysis
+
+***Interactive Features:***
+
+- Year selection filter (Previous year comparison)
+- Product filters (Category & Sub-Category)
+- Location filters (Region, State, City)
+- Dynamic filtering across all visualizations
+
+**2. Customer Dashboard**
+
+***Key Metrics:***
+
+- Total Customers
+- Sales Per Customer
+- Total Orders
+
+***Visualizations:***
+
+- Customer distribution by order frequency
+- Top 10 customers by profit
+- Customer lifetime value analysis
+- Order patterns and trends
 
 ***Interactive Features:***
 
