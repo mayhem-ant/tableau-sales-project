@@ -12,6 +12,7 @@ This project demonstrates advanced Tableau skills through two comprehensive dash
 - Time Series Analysis: Monthly and weekly trend tracking
 
 **1. Sales Dashboard**
+
 ***Key Metrics:***
 - Total Sales
 - Total Profit
