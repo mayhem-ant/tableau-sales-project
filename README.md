@@ -13,6 +13,8 @@ This project demonstrates advanced Tableau skills through two comprehensive dash
 
 **1. Sales Dashboard**
 
+![sales]()
+
 ***Key Metrics:***
 - Total Sales
 - Total Profit
