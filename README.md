@@ -72,24 +72,24 @@ This project demonstrates advanced Tableau skills through two comprehensive dash
 ```
 tableau-sales-analytics/
 │
-├── dashboards/
-│   ├── sales_dashboard.twbx
-│   └── customer_dashboard.twbx
+├── dashboard/
+│   ├── sales_&_customer_dashboard.twbx
 │
 ├── data/
-│   ├── sample_data.csv
-│   └── data_dictionary.md
-│
-├── screenshots/
-│   ├── sales_dashboard.png
-│   └── customer_dashboard.png
+│   ├── data.csv
+│   └── images
 │
 ├── docs/
-│   ├── dashboard_guide.md
+│   ├── data_dictionary.md
 │   └── insights_summary.md
-│
-└── README.md
+|
+├── screenshots/
+│   ├── sales_dashboard.jpg
+│   └── customer_dashboard.jpg
+│   └── filters.jpg
+|
 └── .gitignore
+└── README.md
 ```
 
 
