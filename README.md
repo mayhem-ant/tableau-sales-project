@@ -77,7 +77,7 @@ tableau-sales-analytics/
 │
 ├── data/
 │   ├── data.csv
-│   └── images
+│   └── images/
 │
 ├── docs/
 │   ├── data_dictionary.md
