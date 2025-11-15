@@ -36,6 +36,8 @@ This project demonstrates advanced Tableau skills through two comprehensive dash
 
 **2. Customer Dashboard**
 
+![sales](screenshots/customer_dashboard.jpg)
+
 ***Key Metrics:***
 
 - Total Customers
