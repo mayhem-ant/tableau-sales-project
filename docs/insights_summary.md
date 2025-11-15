@@ -41,7 +41,7 @@ This report analyzes sales and customer performance metrics for 2023, comparing 
 
 The majority of customers are concentrated in the 1-3 order range:
 - **1 Order**: 200 customers (28.86%)
-- **2 Orders**: 200 customers (28.86%) - largest segment
+- **2 Orders**: 200 customers (28.86%)
 - **3 Orders**: 156 customers (22.51%)
 - **4 Orders**: 85 customers (12.26%)
 - **5+ Orders**: 52 customers (7.5%)
