@@ -100,5 +100,8 @@ This project uses synthetic/dummy data created specifically for demonstration pu
 - Product categories and subcategories
 - Order details
 
+  ## 📌 Note
+This is a portfolio project created to demonstrate Tableau proficiency. All data used is fictional and generated for demonstration purposes only.
+
 
 
