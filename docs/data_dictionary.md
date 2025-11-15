@@ -14,7 +14,7 @@ This document describes the structure and contents of the sample dataset used in
 | Customer_Name | String | Full name of customer | John Smith |
 | Category | String | Product category | Technology |
 | Subcategory | String | Product subcategory | Phones |
-| Product_Name | String | Name of product | Samsung Galaxy S23 |
+| Product_Name | String | Name of product | Samsung Galaxy |
 | Sales | Decimal | Total sales amount | 999.99 |
 | Quantity | Integer | Number of units sold | 2 |
 | Profit | Decimal | Profit from transaction | 150.00 |
@@ -25,7 +25,7 @@ This document describes the structure and contents of the sample dataset used in
 
 ## Data Notes
 
-- **Date Range**: January 1, 2023 - December 31, 2023
+- **Date Range**: January 1, 2020 - December 31, 2023
 - **Currency**: USD ($)
 - **Records**: Approximately 9,000+ transactions
 - **Customers**: 693 unique customers
