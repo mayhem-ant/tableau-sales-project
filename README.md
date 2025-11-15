@@ -89,6 +89,7 @@ tableau-sales-analytics/
 │   └── insights_summary.md
 │
 └── README.md
+└── .gitignore
 ```
 
 
